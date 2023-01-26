@@ -27,6 +27,7 @@ with open('MyFile.txt','r') as f1:
     word =i.split()
     num += len(word)
 print("NUMBER OF WORDS =",format(num))
+```
 ### OUTPUT:
 ![output](12.png)
 ![output](13.png)
