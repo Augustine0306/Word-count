@@ -29,9 +29,8 @@ with open('MyFile.txt','r') as f1:
 print("NUMBER OF WORDS =",format(num))
 ```
 ### OUTPUT:
-![output](12.png)
-![output](13.png)
-
+![12](https://user-images.githubusercontent.com/119404460/214793908-09cc8494-5a6a-4ebe-a483-c3d544040769.png)
+![13](https://user-images.githubusercontent.com/119404460/214793983-aeb7854f-0b21-4123-9a93-c934bc5a7f72.png)
 
 
 ## RESULT:
